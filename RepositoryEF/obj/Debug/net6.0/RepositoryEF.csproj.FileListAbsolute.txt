@@ -1,0 +1,17 @@
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\bin\Debug\net6.0\RepositoryEF.deps.json
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\bin\Debug\net6.0\RepositoryEF.runtimeconfig.json
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\bin\Debug\net6.0\RepositoryEF.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\bin\Debug\net6.0\RepositoryEF.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\bin\Debug\net6.0\Entities.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\bin\Debug\net6.0\Entities.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.csproj.AssemblyReference.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.AssemblyInfoInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.AssemblyInfo.cs
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.csproj.CoreCompileInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.csproj.CopyComplete
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\refint\RepositoryEF.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\RepositoryEF.genruntimeconfig.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\RepositoryEF\obj\Debug\net6.0\ref\RepositoryEF.dll

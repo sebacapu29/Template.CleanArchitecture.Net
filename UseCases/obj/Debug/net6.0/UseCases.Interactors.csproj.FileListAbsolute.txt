@@ -1,0 +1,17 @@
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\bin\Debug\net6.0\UseCases.Interactors.deps.json
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\bin\Debug\net6.0\UseCases.Interactors.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\bin\Debug\net6.0\UseCases.Interactors.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\bin\Debug\net6.0\DTOs.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\bin\Debug\net6.0\UseCases.Abstractions.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\bin\Debug\net6.0\UseCases.Abstractions.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\bin\Debug\net6.0\DTOs.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\UseCases.Interactors.csproj.AssemblyReference.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\UseCases.Interactors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\UseCases.Interactors.AssemblyInfoInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\UseCases.Interactors.AssemblyInfo.cs
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\UseCases.Interactors.csproj.CoreCompileInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\UseCases.Interactors.csproj.CopyComplete
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\UseCases.Interactors.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\refint\UseCases.Interactors.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\UseCases.Interactors.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases\obj\Debug\net6.0\ref\UseCases.Interactors.dll

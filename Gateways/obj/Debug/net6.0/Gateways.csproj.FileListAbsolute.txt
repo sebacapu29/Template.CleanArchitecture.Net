@@ -1,0 +1,15 @@
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\Gateways.csproj.AssemblyReference.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\Gateways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\Gateways.AssemblyInfoInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\Gateways.AssemblyInfo.cs
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\Gateways.csproj.CoreCompileInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\bin\Debug\net6.0\Gateways.deps.json
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\bin\Debug\net6.0\Gateways.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\bin\Debug\net6.0\Gateways.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\bin\Debug\net6.0\Entities.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\bin\Debug\net6.0\Entities.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\Gateways.csproj.CopyComplete
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\Gateways.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\refint\Gateways.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\Gateways.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\Gateways\obj\Debug\net6.0\ref\Gateways.dll

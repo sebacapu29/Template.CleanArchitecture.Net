@@ -1,0 +1,15 @@
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\bin\Debug\net6.0\UseCases.Abstractions.deps.json
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\bin\Debug\net6.0\UseCases.Abstractions.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\bin\Debug\net6.0\UseCases.Abstractions.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\bin\Debug\net6.0\DTOs.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\bin\Debug\net6.0\DTOs.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\UseCases.Abstractions.csproj.AssemblyReference.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\UseCases.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\UseCases.Abstractions.AssemblyInfoInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\UseCases.Abstractions.AssemblyInfo.cs
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\UseCases.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\UseCases.Abstractions.csproj.CopyComplete
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\UseCases.Abstractions.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\refint\UseCases.Abstractions.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\UseCases.Abstractions.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\UseCases.Abstractions\obj\Debug\net6.0\ref\UseCases.Abstractions.dll

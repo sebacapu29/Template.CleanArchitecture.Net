@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Presenters/1.0.0": {
+        "dependencies": {
+          "DTOs": "1.0.0",
+          "UseCases.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Presenters.dll": {}
+        }
+      },
+      "DTOs/1.0.0": {
+        "runtime": {
+          "DTOs.dll": {}
+        }
+      },
+      "UseCases.Abstractions/1.0.0": {
+        "dependencies": {
+          "DTOs": "1.0.0"
+        },
+        "runtime": {
+          "UseCases.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Presenters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UseCases.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

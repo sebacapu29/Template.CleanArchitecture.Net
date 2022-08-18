@@ -1,0 +1,17 @@
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\bin\Debug\net6.0\Presenters.deps.json
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\bin\Debug\net6.0\Presenters.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\bin\Debug\net6.0\Presenters.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\bin\Debug\net6.0\DTOs.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\bin\Debug\net6.0\UseCases.Abstractions.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\bin\Debug\net6.0\DTOs.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\bin\Debug\net6.0\UseCases.Abstractions.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\Presenters.csproj.AssemblyReference.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\Presenters.AssemblyInfoInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\Presenters.AssemblyInfo.cs
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\Presenters.csproj.CoreCompileInputs.cache
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\Presenters.csproj.CopyComplete
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\Presenters.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\refint\Presenters.dll
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\Presenters.pdb
+C:\Users\scapurro\source\repos\CleanArquitecture\Presenters\obj\Debug\net6.0\ref\Presenters.dll
